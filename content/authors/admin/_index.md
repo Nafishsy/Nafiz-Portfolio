@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Nafiz Ahmed
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: ''
+role: '.Net Developer'
 
 # Status emoji
 status:
@@ -18,24 +18,18 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Data science, Machine Learning, Deep Learning
 
 #interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+- Artificial Intelligence
+- Few Shot Learning
+- Image Processing
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+education:
+ courses:
+ - course: BSc in CSE
+   institution: American International University - Bangladesh (AIUB)
+   year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -45,29 +39,27 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
+  - icon: discord
     icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: https://discord.com/suzerain_d
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
-# Uncomment below for Github link
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+    link: https://www.instagram.com/nafiz__ahmed/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Nafishsy
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: files/cv.pdf
-
+#   link: static/uploads/resume.pdf
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
+email: "nafizahmed.cseaiub@gmai.com"
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Nafiz Ahmed is a recent Graduate from American International University - Bangladesh (AIUB). His research interests include Data science, Machine Learning, Deep Learning. His major during undergradute studies was Software Engineering.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Curently, He is searching fully funded PHD oppertunities in the area of machine learning.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
