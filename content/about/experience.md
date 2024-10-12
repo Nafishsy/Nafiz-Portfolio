@@ -25,7 +25,7 @@ experience:
   - title: Research Intern
     company: Advanced Machine Intelligence Research La
     company_url: ''
-    company_logo: org-gc
+    company_logo: org-gc.svg
     location: Bangladesh
     date_start: '2023-09-01'
     date_end: '2024-03-01'
@@ -39,7 +39,7 @@ experience:
   - title: Jr. Software Engineer
     company: Shapla Infosys
     company_url: ''
-    company_logo: org-x
+    company_logo: org-x.svg
     location: Bangladesh
     date_start: '2023-01-01'
     date_end: '2023-08-31'
