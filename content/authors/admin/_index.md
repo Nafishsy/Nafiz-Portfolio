@@ -20,7 +20,7 @@ status:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Data science, Machine Learning, Deep Learning
 
-#interests:
+interests:
 - Artificial Intelligence
 - Few Shot Learning
 - Image Processing
