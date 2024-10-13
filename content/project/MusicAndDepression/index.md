@@ -9,7 +9,7 @@ categories: []
 date: 2022-12-01
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/Nafishsy/ResNet-for-Chest-Xray"
+external_link: "https://github.com/Nafishsy/Music-and-Mental-Health-KNN-Classification-of-Music-Effects"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
