@@ -34,6 +34,8 @@ content:
       tag: CV
     - name: NLP
       tag: NLP
+    - name: Embedded Systems
+      tag: ES
 
 design:
   columns: '1'
