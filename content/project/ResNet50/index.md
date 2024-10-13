@@ -1,41 +1,33 @@
 ---
-# Documentation: https://docs.hugoblox.com/managing-content/
-
 title: "ResNet-for-Chest-Xray"
-summary: ""
+summary: "A deep learning model for binary classification of chest X-rays into COVID-19 and Normal cases using transfer learning with ResNet50."
 authors: []
-tags: [CV]
-categories: []
-date: 2024-10-5T04:08:59Z
+tags: [CV, Deep Learning, Transfer Learning, Medical Imaging]
+categories: [Computer Vision, Healthcare, Deep Learning]
+date: 2024-10-05T04:08:59Z
 
-# Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/Nafishsy/ResNet-for-Chest-Xray"
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+# Add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "X-ray Classification using ResNet50"
+  focal_point: "Center"
   preview_only: false
 
 # Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
+# Uncomment and edit lines below to show custom links.
 # links:
 # - name: Follow
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+url_code: "https://github.com/Nafishsy/ResNet-for-Chest-Xray"
 url_pdf: ""
 url_slides: ""
 url_video: ""
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides: ""
+
 ---
