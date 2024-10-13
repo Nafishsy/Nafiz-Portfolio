@@ -4,7 +4,7 @@
 title: "Fire Detection and Alert System"
 summary: "This Arduino-based project detects fire using LM35 temperature and MQ-2 smoke sensors. It sends SMS alerts with GPS coordinates via a GSM module, activates alarms, and displays real-time status on an LCD screen."
 authors: []
-tags: [Arduino, ES, Fire Detection, IoT]
+tags: [ES]
 categories: []
 date: 2022-12-01
 
