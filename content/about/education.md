@@ -26,7 +26,7 @@ experience:
   - title: BSc Computer Science & Engineering
     company: American International University - Bangladesh (AIUB)
     company_url: ''
-    company_logo: org-x.svg
+    company_logo: org-x
     location: Dhaka
     date_start: '2019-08-01'
     date_end: '2023-08-01'

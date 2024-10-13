@@ -9,7 +9,7 @@ superuser: true
 role: '.Net Developer'
 
 # Status emoji
-status: PHD Aspirant
+status: P.H.D Aspirant
 -icon: ☕️
 
 # Organizations/Affiliations
