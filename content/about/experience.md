@@ -24,7 +24,7 @@ date_format: January 2, 2006
 experience:
   - title: Research Intern
     company: Advanced Machine Intelligence Research Lab
-    company_url: ''
+    company_url: 'https://amirl.org/'
     company_logo: org-gc
     location: Bangladesh
     date_start: '2023-09-01'
@@ -39,7 +39,7 @@ experience:
   - title: Jr. Software Engineer
     company: Shapla Infosys
     company_url: ''
-    company_logo: shapla_infosys
+    company_logo: shapla_infosys_logo
     location: Bangladesh
     date_start: '2023-01-01'
     date_end: '2023-08-31'
