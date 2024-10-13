@@ -23,7 +23,7 @@ date_format: January 2, 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Intern
-    company: Advanced Machine Intelligence Research La
+    company: Advanced Machine Intelligence Research Lab
     company_url: ''
     company_logo: org-gc
     location: Bangladesh
@@ -39,7 +39,7 @@ experience:
   - title: Jr. Software Engineer
     company: Shapla Infosys
     company_url: ''
-    company_logo: org-x
+    company_logo: shapla_infosys
     location: Bangladesh
     date_start: '2023-01-01'
     date_end: '2023-08-31'
