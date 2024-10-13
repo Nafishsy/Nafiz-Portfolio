@@ -18,8 +18,12 @@ author: admin
 #  css_class: fullscreen
 ---
 
-👋 Hello there! My name is Nafiz,
-graduated recently with a Bachelor's degree in Computer Science and Engineering, majoring in Software Engineering from the AIUB. 🎓 I am trying to expand my knowledge in areas (Machine Learnig, Deep Learning, Computer Vision) to strengthen my candidacy for doctoral programs. 📚💡 My academic background and ongoing self-study have provided me with a solid foundation in these fields, and I am eager to contribute to cutting-edge research in image processing and related domains. 🚀🔬
-{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+👋 Hello there! My name is Nafiz,<br>
+graduated recently with a Bachelor's degree in Computer Science and Engineering, majoring in Software Engineering from the AIUB. 🎓<br><br> 
+I am trying to expand my knowledge in areas (Machine Learning, Deep Learning, Computer Vision) to strengthen my candidacy for doctoral programs. 📚💡<br><br> 
+My academic background and ongoing self-study have provided me with a solid foundation in these fields, and I am eager to contribute to cutting-edge research in image processing and related domains. 🚀🔬
+{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFD27D 0%, #FFBB66 30%, #FF8E42 60%, #FF7034 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+
+
 
 Check out my [resumé](/about/)
