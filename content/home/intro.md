@@ -22,7 +22,7 @@ author: admin
 graduated recently with a Bachelor's degree in Computer Science and Engineering, majoring in Software Engineering from the AIUB. 🎓<br><br> 
 I am trying to expand my knowledge in areas (Machine Learning, Deep Learning, Computer Vision) to strengthen my candidacy for doctoral programs. 📚💡<br><br> 
 My academic background and ongoing self-study have provided me with a solid foundation in these fields, and I am eager to contribute to cutting-edge research in image processing and related domains. 🚀🔬
-{style="font-size: 1.2rem; color: white; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;"}
+{style="font-size: 1.2rem; color: white;"}
 
 
 
