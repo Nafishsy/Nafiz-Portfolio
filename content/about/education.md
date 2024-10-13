@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: BSc Computer Science & Engineering
+  - title: BSc in Computer Science & Engineering
     company: American International University - Bangladesh (AIUB)
     company_url: ''
     company_logo: org-x

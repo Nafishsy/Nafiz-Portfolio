@@ -1,21 +1,21 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "Few Shot learning (On going)"
-summary: "I'm working on X-Net for retinal image segmentation using few-shot learning. The project aims to improve performance in medical imaging with limited data, focusing on accurate detection and segmentation of retinal anomalies to support better diagnostics for eye diseases."
+title: "Music and Mental Health: KNN Classification of Music Effects"
+summary: "This project investigates the relationship between music and mental health using the 'mxmh_survey_results.csv' dataset. It employs K-Nearest Neighbors (KNN) to classify the perceived effects of music (improve, worsen, no effect) on individuals experiencing anxiety, depression, insomnia, and OCD."
 authors: []
-tags: [CV]
+tags: [ML]
 categories: []
-date: 2024-10-5T04:08:59Z
+date: 2022-12-01
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/Nafishsy/"
+external_link: "https://github.com/Nafishsy/Music-and-Mental-Health-KNN-Classification-of-Music-Effects"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Few Shot learning"
+  caption: ""
   focal_point: "Smart"
   preview_only: false
 

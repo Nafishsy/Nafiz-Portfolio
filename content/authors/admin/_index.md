@@ -27,9 +27,9 @@ interests:
 
 education:
  courses:
- - course: BSc in CSE
+ - course: BSc in Computer Science Engineering.
    institution: American International University - Bangladesh (AIUB)
-   year: 2019
+   year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -39,9 +39,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: discord
-    icon_pack: fab
-    link: https://discord.com/suzerain_d
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/nafiz__ahmed/

@@ -2,7 +2,7 @@
 # Documentation: https://docs.hugoblox.com/managing-content/
 
 title: "Few Shot learning (On going)"
-summary: "I'm working on X-Net for retinal image segmentation using few-shot learning. The project aims to improve performance in medical imaging with limited data, focusing on accurate detection and segmentation of retinal anomalies to support better diagnostics for eye diseases."
+summary: "I am currently working on **X-Net** for retinal image segmentation. This project focuses on applying few-shot learning techniques to medical imaging, specifically for the segmentation of retinal images. The goal is to leverage the X-Net architecture, which is designed to improve performance in limited data scenarios, making it well-suited for tasks like medical image analysis where annotated data can be scarce.The model aims to detect and segment retinal anomalies with high accuracy, enabling better diagnostic tools for eye-related diseases."
 authors: []
 tags: [CV]
 categories: []
