@@ -24,6 +24,6 @@ redirect_url: "https://nafishsy.github.io/"
 
 👋 Hello there! This is an **old portfolio**.
 
-I have recently updated my portfolio. You will be automatically redirected to my new portfolio in a few seconds. If not, please [click here](https://nafishsy.github.io/) to go to my updated portfolio. 🎓🚀
+I have recently updated my portfolio. You will be automatically redirected to my new portfolio in a few seconds. If not, please [click here](https://nafishsy.github.io/) to go to my updated portfolio. Please🎓🚀
 
 {style="font-size: 1.2rem; color: white;"}
